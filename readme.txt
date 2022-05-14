@@ -55,3 +55,13 @@ Part 7 -
 1. Programming paradigms
 2. Algorithms
 3. Larger programming exercises
+
+Java Programming 2 - 
+
+Part 8 - 
+
+1. Short recap 
+2. Hash Map
+3. Similarity of objects
+4. Grouping data using hash maps
+5. Fast data fetching and grouping information
